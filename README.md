@@ -1,5 +1,7 @@
 
-## Olá, Gabriel Silva aqui!👋
+# Olá, Gabriel Silva aqui! <img src="https://user-images.githubusercontent.com/74038190/226127927-3feb953e-cc01-482e-b732-311b2907991f.gif" width="100px"/>
+
+
 
 
  <div>
@@ -23,7 +25,7 @@
 ###
 <!-- GIF -->
 <p align="center">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+  <img align="center" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Imagem">
 </p>
 
 ## 🔥 Skills
