@@ -6,7 +6,7 @@
 <h1 align="left">About me</h1>
 
 
-<h4 align="justify" style="font-family: times new roman" align="left">Software Engineer specialized in backend development with Node.js, Python, and Java. Passionate about web development, data engineering, and building scalable, impactful systems. Always eager to learn and take on new challenges..</h4>
+<h4 align="justify" style="font-family: times new roman" align="left">Software Engineer with strong experience in backend development using Node.js, Python, and Java. Passionate about creating scalable web solutions and leveraging data engineering to drive efficiency and innovation. I enjoy working on complex challenges, learning new technologies, and contributing to high-impact projects that make a difference.</h4>
 
 ###
 <h1 align="left">Connect with me</h1>
