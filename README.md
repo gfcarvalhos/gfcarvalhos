@@ -6,7 +6,7 @@
 <h1 align="left">About me</h1>
 
 
-<h4 align="justify" style="font-family: times new roman" align="left">I am a software engineering student at Federal University of Maranhão (UFMA), under the Computer Enginering department. I am passionate about web development and data engineering, with a current focus on developing business process automation (RPA) solutions. Learning new things always excites me, and I am constantly seeking new challenges to expand my knowledge and skills.</h4>
+<h4 align="justify" style="font-family: times new roman" align="left">Software Engineer specialized in backend development with Node.js, Python, and Java. Passionate about web development, data engineering, and building scalable, impactful systems. Always eager to learn and take on new challenges..</h4>
 
 ###
 <h1 align="left">Connect with me</h1>
